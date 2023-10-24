@@ -11,8 +11,11 @@ This capstone project will ultimately predict if the Space X Falcon 9 first stag
 -  If we can make predictions on whether the first stage will land, we can determine the cost of a launch, and use this information to assess whether or not an alternate company should bid against SpaceX for a rocket launch.
 
 ## Outline
--  [Data Collection](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/2_Space_X_Web_scraping_Falcon_9_and_Falcon_Heavy_Launches_Records_from_Wikipedia.ipynb)
+-  [Data Collection using SpaceX's API](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/Lab_1_(_Data_Collection_Api_)_checkpoint.ipynb)
+    - Using GET requests to obtain data using the SpaceX API
+-  [Web Scraping](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/2_Space_X_Web_scraping_Falcon_9_and_Falcon_Heavy_Launches_Records_from_Wikipedia.ipynb)
 -  [Data Wrangling](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/3_Space_X_Data_Wrangling_spacex.ipynb)
+    - Using 'fill.na()' method to remove NaN values
 -  [Exploratory Data Analysis by SQL](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/4_Space_X_EDA_Using_SQL.ipynb)
 -  [Data Visualization](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/5_Space_X_EDA_DataViz_Using_Pandas_and_Matplotlib_SpaceX.ipynb)
 -  [Launch Sites Locations Analysis with Folium](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/6_Space_X_Launch_Sites_Locations_Analysis_with_Folium_Interactive_Visual_Analytics.ipy)
