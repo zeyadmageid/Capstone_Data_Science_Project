@@ -3,7 +3,7 @@
 <img width="579" alt="image" src="https://github.com/zeyadmageid/Capstone_Data_Science_Project/assets/52506246/7b486251-68e9-44bf-afef-8bfe029a6824">
 
 ## Summary
-This capstone project will ultimately predict if the Space X Falcon 9 first stage will land successfully.
+This capstone project will ultimately predict if the Space X Falcon 9 first stage will land successfully. Click [here](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/report.pdf) to view the report.
 
 ### Context and business mission
 -  SpaceX launches Falcon 9 rockets at a cost of around $62m. This is considerably cheaper than other providers (which usually cost upwards of $165m), and much of the savings are because SpaceX can land, and then re-use the first stage of the rocket.
