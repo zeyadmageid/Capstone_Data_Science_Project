@@ -17,7 +17,7 @@ This capstone project will ultimately predict if the Space X Falcon 9 first stag
 -  [Data Wrangling](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/3_Space_X_Data_Wrangling_spacex.ipynb)
     - Using `fill.na()`method to remove NaN values.
     - Using `value_counts()`method to determine the following.
-          -Number of launches on each site
+          -    Number of launches on each site
 -  [Exploratory Data Analysis by SQL](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/4_Space_X_EDA_Using_SQL.ipynb)
 -  [Data Visualization](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/5_Space_X_EDA_DataViz_Using_Pandas_and_Matplotlib_SpaceX.ipynb)
 -  [Launch Sites Locations Analysis with Folium](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/6_Space_X_Launch_Sites_Locations_Analysis_with_Folium_Interactive_Visual_Analytics.ipy)
