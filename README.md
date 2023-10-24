@@ -43,3 +43,14 @@ This capstone project will ultimately predict if the Space X Falcon 9 first stag
     - Plotting confusion matrices for each classification model
     - Assessing the accuracy of each classification model
      
+## :key: Key Skills Learned/Used:
+-    Using data science methodologies to define and formulate a real-world business problem
+-    Using data analysis and data visualisation to load a dataset, clean it, and find out interesting insights from it
+-    Interactive dashboard development with Plotly Dash
+-    Interactive map development using Folium
+-    Using machine learning to build a predictive model to help a business function more efficiently
+-    Structuring and building a data-findings report
+
+## Certificate:
+Verify at this [Link](https://www.coursera.org/account/accomplishments/professional-cert/FY9YMA642SUX)
+<img width="959" alt="image" src="https://github.com/zeyadmageid/Capstone_Data_Science_Project/assets/52506246/a8bd6523-84f9-412d-8de8-7bce98597ae8">
