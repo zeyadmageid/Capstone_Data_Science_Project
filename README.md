@@ -17,9 +17,29 @@ This capstone project will ultimately predict if the Space X Falcon 9 first stag
 -  [Data Wrangling](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/3_Space_X_Data_Wrangling_spacex.ipynb)
     - Using `fill.na()`method to remove NaN values.
     - Using `value_counts()`method to determine the following.
-        - Using `fill.na()`method to remove NaN values.
+        - Number of launches on each site.
+        - Number and occurrence of each orbit
+        - Number and occurrence of mission outcome per orbit type
+    - Creating a landing outcome label that shows the following:
+        - 0 when the booster did not land successfully
+        - 1 when the booster did land successfully
+    
 -  [Exploratory Data Analysis by SQL](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/4_Space_X_EDA_Using_SQL.ipynb)
+    - Using SQL queries to manipulate and evaluate the SpaceX dataset      
 -  [Data Visualization](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/5_Space_X_EDA_DataViz_Using_Pandas_and_Matplotlib_SpaceX.ipynb)
+    - Using Pandas and Matplotlib to visualize relationships between variables, and determine patterns
 -  [Launch Sites Locations Analysis with Folium](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/6_Space_X_Launch_Sites_Locations_Analysis_with_Folium_Interactive_Visual_Analytics.ipy)
+    -  Geospatial analytics using Folium
+
 -  [Plotly interactive dashboard](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/7.%20Build%20an%20Interactive%20Dashboard%20with%20Ploty%20Dash%20-%20spacex_dash_app.py)
--  [Predictive Analysis](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/8_SpaceX_Machine_Learning_Prediction.ipynb) 
+    -  Creating an interactive dashboard using Plotly Dash
+
+-  [Predictive Analysis](https://github.com/zeyadmageid/Capstone_Data_Science_Project/blob/main/8_SpaceX_Machine_Learning_Prediction.ipynb)
+    - Using Scikit-Learn to:
+        - Pre-process (standardize) the data
+        - Split the data into training and testing data using train_test_split
+        - Train different classification models
+        - Find hyperparameters using GridSearchCV
+    - Plotting confusion matrices for each classification model
+    - Assessing the accuracy of each classification model
+     
